@@ -1,2 +1,1 @@
-# django-tutorial
-My first Django app
+# My first Django app
